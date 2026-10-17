@@ -1,5 +1,3 @@
-
-
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png",Rai 1 HD
@@ -42,70 +40,70 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="9" tvg-id="PlutoTVFilmAzione.de@IT",Pluto TV Film Azione
-https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png",NOVE HD
+#EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png",NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png",20Mediaset HD
+#EXTINF:-1 tvg-chno="10" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png",20Mediaset HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png",Iris HD
+#EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png",Iris HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Rai.4..5021.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/21-rai4hd.png",Rai 4 HD
+#EXTINF:-1 tvg-chno="12" tvg-id="Rai.4..5021.it" tvg-name="Rai 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/21-rai4hd.png",Rai 4 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Rai.5..5023.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/23-rai5hd.png",Rai 5 HD
+#EXTINF:-1 tvg-chno="13" tvg-id="Rai.5..5023.it" tvg-name="Rai 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/23-rai5hd.png",Rai 5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png",Rai Movie HD
+#EXTINF:-1 tvg-chno="14" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimoviehd.png",Rai Movie HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png",Cielo HD
+#EXTINF:-1 tvg-chno="15" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png",Cielo HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="17" tvg-id="RakutenTVActionMovies.es@Italy",Rakuten TV Action Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="16" tvg-id="RakutenTVActionMovies.es@Italy",Rakuten TV Action Movies Italy (1080p)
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="",Rakuten TV Asian Cinema Italy (1080p)
+#EXTINF:-1 tvg-chno="17" tvg-id="",Rakuten TV Asian Cinema Italy (1080p)
 https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="RakutenTVComedyMovies.es@Italy",Rakuten TV Comedy Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="18" tvg-id="RakutenTVComedyMovies.es@Italy",Rakuten TV Comedy Movies Italy (1080p)
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-id="RakutenTVTopMovies.es@Italy",Rakuten TV Top Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="19" tvg-id="RakutenTVTopMovies.es@Italy",Rakuten TV Top Movies Italy (1080p)
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="",Rakuten TV Crime Series Italy (1080p)
+#EXTINF:-1 tvg-chno="20" tvg-id="",Rakuten TV Crime Series Italy (1080p)
 https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="",Rakuten TV Romance Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="21" tvg-id="",Rakuten TV Romance Movies Italy (1080p)
 https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="RakutenTVFamilyMovies.es@Italy",Rakuten TV Family Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="22" tvg-id="RakutenTVFamilyMovies.es@Italy",Rakuten TV Family Movies Italy (1080p)
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="RakutenTVDramaMovies.es@Italy",Rakuten TV Drama Movies Italy (1080p)
+#EXTINF:-1 tvg-chno="23" tvg-id="RakutenTVDramaMovies.es@Italy",Rakuten TV Drama Movies Italy (1080p)
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="PlutoTVCinemaItaliano.de@IT",Pluto TV Cinema Italiano
+#EXTINF:-1 tvg-chno="24" tvg-id="PlutoTVCinemaItaliano.de@IT",Pluto TV Cinema Italiano
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="PlutoTVFilmAzione.de@IT",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="PlutoTVParanormal.de@IT",Pluto TV Paranormal
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
@@ -116,634 +114,634 @@ https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="PlutoTVFilm.de@IT",Pluto TV Film
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="PlutoTVFilmCommedia.de@IT",Pluto TV Film Commedia
+#EXTINF:-1 tvg-chno="29" tvg-id="PlutoTVWestern.de@IT",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="PlutoTVFilmCommedia.de@IT",Pluto TV Film Commedia
 https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="PlutoTVFilmRomantici.de@IT",Pluto TV Film Romantici
+#EXTINF:-1 tvg-chno="31" tvg-id="PlutoTVFilmRomantici.de@IT",Pluto TV Film Romantici
 https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-id="PlutoTVNatura.de@IT",Pluto TV Natura
+#EXTINF:-1 tvg-chno="32" tvg-id="PlutoTVNatura.de@IT",Pluto TV Natura
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="PlutoTVScherzierisate.de@IT",Pluto TV Scherzi e risate
+#EXTINF:-1 tvg-chno="33" tvg-id="PlutoTVScherzierisate.de@IT",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="",Risate Dal Sud (720p)
+#EXTINF:-1 tvg-chno="34" tvg-id="",Risate Dal Sud (720p)
 https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-name="Teledue" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/12-teledue.png",Teledue
+#EXTINF:-1 tvg-chno="35" tvg-name="Teledue" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/12-teledue.png",Teledue
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream12.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png",Antenna Sud
+#EXTINF:-1 tvg-chno="36" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png",Antenna Sud
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png",Telerama
+#EXTINF:-1 tvg-chno="37" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png",Telerama
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png",TRM H24
+#EXTINF:-1 tvg-chno="38" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png",TRM H24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.youtube.com/watch?v=88vVV1k84Qo
 
-#EXTINF:-1 tvg-chno="38" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png",Telebari
+#EXTINF:-1 tvg-chno="39" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png",Telebari
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://w1.mediastreaming.it/telebari/livestream/manifest.mpd
 
-#EXTINF:-1 tvg-chno="39" tvg-name="Telesveva" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png",Telesveva
+#EXTINF:-1 tvg-chno="40" tvg-name="Telesveva" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png",Telesveva
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live2.telesveva.com/hls/svevahd.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png",Tele Dehon
+#EXTINF:-1 tvg-chno="41" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png",Tele Dehon
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png",Rai Premium HD
+#EXTINF:-1 tvg-chno="42" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png",Rai Premium HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="42" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/27-27hd.png",27Twentyseven HD
+#EXTINF:-1 tvg-chno="43" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/27-27hd.png",27Twentyseven HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="43" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/28-tv2000.png",TV2000
+#EXTINF:-1 tvg-chno="44" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/28-tv2000.png",TV2000
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png",LA7 Cinema
+#EXTINF:-1 tvg-chno="45" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png",LA7 Cinema
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
-#EXTINF:-1 tvg-chno="45" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png",La5 HD
+#EXTINF:-1 tvg-chno="46" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png",La5 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png",Real Time HD
+#EXTINF:-1 tvg-chno="47" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png",Real Time HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png",QVC HD
+#EXTINF:-1 tvg-chno="48" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png",QVC HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png",Food Network HD
+#EXTINF:-1 tvg-chno="49" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png",Food Network HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png",Cine34 HD
+#EXTINF:-1 tvg-chno="50" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png",Cine34 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Focus.it" tvg-name="FOCUS HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/35-focushd.png",FOCUS HD
+#EXTINF:-1 tvg-chno="51" tvg-id="Focus.it" tvg-name="FOCUS HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/35-focushd.png",FOCUS HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="51" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/36-rtl1025.png",RTL 102.5
+#EXTINF:-1 tvg-chno="52" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/36-rtl1025.png",RTL 102.5
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png",Discovery
+#EXTINF:-1 tvg-chno="53" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png",Discovery
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png",Giallo
+#EXTINF:-1 tvg-chno="54" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png",Giallo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png",Top Crime HD
+#EXTINF:-1 tvg-chno="55" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png",Top Crime HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Boing.it" tvg-name="Boing HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/40-boing.png",Boing HD
+#EXTINF:-1 tvg-chno="56" tvg-id="Boing.it" tvg-name="Boing HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/40-boing.png",Boing HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="56" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/41-k2.png",K2
+#EXTINF:-1 tvg-chno="57" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/41-k2.png",K2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png",Rai Gulp HD
+#EXTINF:-1 tvg-chno="58" tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png",Rai Gulp HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyohd.png",Rai Yoyo HD
+#EXTINF:-1 tvg-chno="59" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyohd.png",Rai Yoyo HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/44-frisbee.png",Frisbee
+#EXTINF:-1 tvg-chno="60" tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/44-frisbee.png",Frisbee
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png",Boing Plus
+#EXTINF:-1 tvg-chno="61" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png",Boing Plus
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://uvotv.zappr.stream/101.m3u8
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png",Cartoonito HD
+#EXTINF:-1 tvg-chno="62" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png",Cartoonito HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="62" tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/47-super.png",Super!
+#EXTINF:-1 tvg-chno="63" tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/47-super.png",Super!
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png",Rai News 24 HD
+#EXTINF:-1 tvg-chno="64" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png",Rai News 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="64" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png",Italia 2 HD
+#EXTINF:-1 tvg-chno="65" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png",Italia 2 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="65" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png",Sky TG24
+#EXTINF:-1 tvg-chno="66" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png",Sky TG24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-chno="66" tvg-id="TGCom.it" tvg-name="TGCOM 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png",TGCOM 24 HD
+#EXTINF:-1 tvg-chno="67" tvg-id="TGCom.it" tvg-name="TGCOM 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png",TGCOM 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="67" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png",DMAX
+#EXTINF:-1 tvg-chno="68" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png",DMAX
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png",Italia 53
+#EXTINF:-1 tvg-chno="69" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png",Italia 53
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png",Rai Storia HD
+#EXTINF:-1 tvg-chno="70" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png",Rai Storia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png",Mediaset Extra HD
+#EXTINF:-1 tvg-chno="71" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png",Mediaset Extra HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="71" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png",HGTV - Home&Garden
+#EXTINF:-1 tvg-chno="72" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png",HGTV - Home&Garden
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Rai.Scuola..5057.it" tvg-name="Italiana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png",Rai Scuola HD
+#EXTINF:-1 tvg-chno="73" tvg-id="Rai.Scuola..5057.it" tvg-name="Italiana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png",Rai Scuola HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
 
-#EXTINF:-1 tvg-chno="73" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png",Rai Sport HD
+#EXTINF:-1 tvg-chno="74" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png",Rai Sport HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png",Discovery Turbo
+#EXTINF:-1 tvg-chno="75" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png",Discovery Turbo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png",Sportitalia HD
+#EXTINF:-1 tvg-chno="76" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png",Sportitalia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="76" tvg-name="il61" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png",il61
+#EXTINF:-1 tvg-chno="77" tvg-name="il61" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png",il61
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
 
-#EXTINF:-1 tvg-chno="77" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/62-donnatv.png",Donna TV
+#EXTINF:-1 tvg-chno="78" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/62-donnatv.png",Donna TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1420973156.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png",Canale 63
+#EXTINF:-1 tvg-chno="79" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png",Canale 63
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master-3500.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png",SuperTennis
+#EXTINF:-1 tvg-chno="80" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png",SuperTennis
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-chno="80" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/65-almatv.png",Alma TV
+#EXTINF:-1 tvg-chno="81" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/65-almatv.png",Alma TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="81" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png",Radio 105 TV
+#EXTINF:-1 tvg-chno="82" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png",Radio 105 TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="82" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/67-r101.png",R101 TV
+#EXTINF:-1 tvg-chno="83" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/67-r101.png",R101 TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-chno="83" tvg-name="Bom Channel" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/68-bomchannel.png",Bom Channel
+#EXTINF:-1 tvg-chno="84" tvg-name="Bom Channel" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/68-bomchannel.png",Bom Channel
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-id="Deejay.TV.it" tvg-name="Deejay TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/69-deejay.png",Deejay TV HD
+#EXTINF:-1 tvg-chno="85" tvg-id="Deejay.TV.it" tvg-name="Deejay TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/69-deejay.png",Deejay TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="85" tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/70-radioitalia.png",RadioItaliaTV
+#EXTINF:-1 tvg-chno="86" tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/70-radioitalia.png",RadioItaliaTV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/71-rsila1.png",RSI La 1
+#EXTINF:-1 tvg-chno="87" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/71-rsila1.png",RSI La 1
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-chno="87" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png",RSI La 2
+#EXTINF:-1 tvg-chno="88" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png",RSI La 2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
-#EXTINF:-1 tvg-chno="88" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png",Rai 4K
+#EXTINF:-1 tvg-chno="89" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png",Rai 4K
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="89" tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/102-fifa.png",FIFA+
+#EXTINF:-1 tvg-chno="90" tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/102-fifa.png",FIFA+
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png",Radio TV Serie A
+#EXTINF:-1 tvg-chno="91" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png",Radio TV Serie A
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://legaseriea-live-prd.cdn.netrw.it/@syna-token=st=1791652095~hmac=db842edcd57164438b4a30743a5870827a67d4dab2dbab62e45e5e3bd263005d/out/v1/s-prd/ch-01-prd-s-v2/dash-ch-01-prd-s-hd/index.mpd
 
-#EXTINF:-1 tvg-chno="91" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png",Radio Kiss Kiss TV
+#EXTINF:-1 tvg-chno="92" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png",Radio Kiss Kiss TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="92" tvg-name="Rai Radio 2 Visual" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/202-rairadio2.png",Rai Radio 2 Visual
+#EXTINF:-1 tvg-chno="93" tvg-name="Rai Radio 2 Visual" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/202-rairadio2.png",Rai Radio 2 Visual
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="93" tvg-name="MAN-GA" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/236-manga.png",MAN-GA
+#EXTINF:-1 tvg-chno="94" tvg-name="MAN-GA" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/236-manga.png",MAN-GA
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr9-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 
-#EXTINF:-1 tvg-chno="94" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png",Gambero Rosso
+#EXTINF:-1 tvg-chno="95" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png",Gambero Rosso
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://smplu.link/xN1ckuz-GamberoRosso.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png",RadioFreccia
+#EXTINF:-1 tvg-chno="96" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png",RadioFreccia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/263-virginradio.png",Virgin Radio
+#EXTINF:-1 tvg-chno="97" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/263-virginradio.png",Virgin Radio
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 tvg-chno="97" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/265-rdssocialtv.png",RDS Social TV
+#EXTINF:-1 tvg-chno="98" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/265-rdssocialtv.png",RDS Social TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.rdstv.radio/index.m3u8
 
-#EXTINF:-1 tvg-chno="98" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png",Radio Zeta
+#EXTINF:-1 tvg-chno="99" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png",Radio Zeta
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-id="Euronews.IT" tvg-name="Euronews IT" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png",Euronews IT
+#EXTINF:-1 tvg-chno="100" tvg-id="Euronews.IT" tvg-name="Euronews IT" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png",Euronews IT
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png",ACI Sport TV HD
+#EXTINF:-1 tvg-chno="101" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png",ACI Sport TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
 
-#EXTINF:-1 tvg-chno="101" tvg-name="BBC Top Gear Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png",BBC Top Gear Italy
+#EXTINF:-1 tvg-chno="102" tvg-name="BBC Top Gear Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png",BBC Top Gear Italy
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tinyurl.com/xN1ckuzTopGear
 
-#EXTINF:-1 tvg-chno="102" tvg-name="Hell's Kitchen Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png",Hell's Kitchen Italy
+#EXTINF:-1 tvg-chno="103" tvg-name="Hell's Kitchen Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png",Hell's Kitchen Italy
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png",Sportitalia Solocalcio HD
+#EXTINF:-1 tvg-chno="104" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png",Sportitalia Solocalcio HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="104" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png",RaiPlay Sport 1
+#EXTINF:-1 tvg-chno="105" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png",RaiPlay Sport 1
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="105" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/407-italianfishingtv.png",Italian Fishing TV
+#EXTINF:-1 tvg-chno="106" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/407-italianfishingtv.png",Italian Fishing TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://fms.premio.link/fishingtv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="106" tvg-name="Radio Carina TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png",Radio Carina TV
+#EXTINF:-1 tvg-chno="107" tvg-name="Radio Carina TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png",Radio Carina TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://57068da1deb21.streamlock.net/radiocarina/radiocarina/chunklist_w1834980759.m3u8
 
-#EXTINF:-1 tvg-chno="107" tvg-name="Radio Capital TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/713-radiocapital.png",Radio Capital TV
+#EXTINF:-1 tvg-chno="108" tvg-name="Radio Capital TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/713-radiocapital.png",Radio Capital TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-name="M2O TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/715-m2o.png",M2O TV
+#EXTINF:-1 tvg-chno="109" tvg-name="M2O TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/715-m2o.png",M2O TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="109" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png",Rai 3 TGR Marche
+#EXTINF:-1 tvg-chno="110" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png",Rai 3 TGR Marche
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="110" tvg-id="16AnnieIncinta.de@IT",16 Anni e Incinta
+#EXTINF:-1 tvg-chno="111" tvg-id="16AnnieIncinta.de@IT",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 
-#EXTINF:-1 tvg-chno="111" tvg-id="",Affare Fatto
+#EXTINF:-1 tvg-chno="112" tvg-id="",Affare Fatto
 https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
 
-#EXTINF:-1 tvg-chno="112" tvg-id="",Alice Nevers
+#EXTINF:-1 tvg-chno="113" tvg-id="",Alice Nevers
 https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="Andromeda.us@Italy",Andromeda Italy (720p)
+#EXTINF:-1 tvg-chno="114" tvg-id="Andromeda.us@Italy",Andromeda Italy (720p)
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-id="",Automoto
+#EXTINF:-1 tvg-chno="115" tvg-id="",Automoto
 https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
 
-#EXTINF:-1 tvg-chno="115" tvg-id="",Autostop per il cielo
+#EXTINF:-1 tvg-chno="116" tvg-id="",Autostop per il cielo
 https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
 
-#EXTINF:-1 tvg-chno="116" tvg-id="",Barbie & Friends
+#EXTINF:-1 tvg-chno="117" tvg-id="",Barbie & Friends
 https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
 
-#EXTINF:-1 tvg-chno="117" tvg-id="",BBC Series
+#EXTINF:-1 tvg-chno="118" tvg-id="",BBC Series
 https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
 
-#EXTINF:-1 tvg-chno="118" tvg-id="",Carabinieri
+#EXTINF:-1 tvg-chno="119" tvg-id="",Carabinieri
 https://jmp2.uk/plu-66a0eea88561260008b1c5d0.m3u8
 
-#EXTINF:-1 tvg-chno="119" tvg-id="MTVCatfishTVShow.de@IT",Catfish
+#EXTINF:-1 tvg-chno="120" tvg-id="MTVCatfishTVShow.de@IT",Catfish
 https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
 
-#EXTINF:-1 tvg-chno="120" tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
+#EXTINF:-1 tvg-chno="121" tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
 https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
 
-#EXTINF:-1 tvg-chno="121" tvg-id="",Cherif
+#EXTINF:-1 tvg-chno="122" tvg-id="",Cherif
 https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-id="CinCin.de@IT",Cin Cin
+#EXTINF:-1 tvg-chno="123" tvg-id="CinCin.de@IT",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 
-#EXTINF:-1 tvg-chno="123" tvg-id="",Cinema Poliziottesco
+#EXTINF:-1 tvg-chno="124" tvg-id="",Cinema Poliziottesco
 https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
 
-#EXTINF:-1 tvg-chno="124" tvg-id="",CineThriller (720p)
+#EXTINF:-1 tvg-chno="125" tvg-id="",CineThriller (720p)
 https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
 
-#EXTINF:-1 tvg-chno="125" tvg-id="",CNN Headlines International
+#EXTINF:-1 tvg-chno="126" tvg-id="",CNN Headlines International
 https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
 
-#EXTINF:-1 tvg-chno="126" tvg-id="",Duri a Morire (720p)
+#EXTINF:-1 tvg-chno="127" tvg-id="",Duri a Morire (720p)
 https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
 
-#EXTINF:-1 tvg-chno="127" tvg-id="Dynasty.de@IT",Dynasty
+#EXTINF:-1 tvg-chno="128" tvg-id="Dynasty.de@IT",Dynasty
 https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 
-#EXTINF:-1 tvg-chno="128" tvg-id="EuronewsItalian.fr@SD",Euronews Italian (720p)
+#EXTINF:-1 tvg-chno="129" tvg-id="EuronewsItalian.fr@SD",Euronews Italian (720p)
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 
-#EXTINF:-1 tvg-chno="129" tvg-id="",Extreme Makeover Home Edition
+#EXTINF:-1 tvg-chno="130" tvg-id="",Extreme Makeover Home Edition
 https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
 
-#EXTINF:-1 tvg-chno="130" tvg-id="FailArmy.us@US",FailArmy (720p)
+#EXTINF:-1 tvg-chno="131" tvg-id="FailArmy.us@US",FailArmy (720p)
 https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-id="FIFAPlus.uk@English",FIFA+ (720p)
+#EXTINF:-1 tvg-chno="132" tvg-id="FIFAPlus.uk@English",FIFA+ (720p)
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-id="",Flashpoint
+#EXTINF:-1 tvg-chno="133" tvg-id="",Flashpoint
 https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="ForensicFiles.us@SD",Forensic Files
+#EXTINF:-1 tvg-chno="134" tvg-id="ForensicFiles.us@SD",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
 
-#EXTINF:-1 tvg-chno="134" tvg-id="GamberoRossoChannel.it@SD",Gambero Rosso (720p)
+#EXTINF:-1 tvg-chno="135" tvg-id="GamberoRossoChannel.it@SD",Gambero Rosso (720p)
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-id="GeordieShore.de@IT",Geordie Shore
+#EXTINF:-1 tvg-chno="136" tvg-id="GeordieShore.de@IT",Geordie Shore
 https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
 
-#EXTINF:-1 tvg-chno="136" tvg-id="",Gli Immortali | Van Damme vs Lundgren (720p)
+#EXTINF:-1 tvg-chno="137" tvg-id="",Gli Immortali | Van Damme vs Lundgren (720p)
 https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
 
-#EXTINF:-1 tvg-chno="137" tvg-id="",Gormiti
+#EXTINF:-1 tvg-chno="138" tvg-id="",Gormiti
 https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8
 
-#EXTINF:-1 tvg-chno="138" tvg-id="HellsKitchen.us@UK",Hell's Kitchen (720p)
+#EXTINF:-1 tvg-chno="139" tvg-id="HellsKitchen.us@UK",Hell's Kitchen (720p)
 https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 
-#EXTINF:-1 tvg-chno="139" tvg-id="",Horror Club
+#EXTINF:-1 tvg-chno="140" tvg-id="",Horror Club
 https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-id="",I Jefferson
+#EXTINF:-1 tvg-chno="141" tvg-id="",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 
-#EXTINF:-1 tvg-chno="141" tvg-id="",I Puffi
+#EXTINF:-1 tvg-chno="142" tvg-id="",I Puffi
 https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8
 
-#EXTINF:-1 tvg-chno="142" tvg-id="",I soliti idioti
+#EXTINF:-1 tvg-chno="143" tvg-id="",I soliti idioti
 https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
 
-#EXTINF:-1 tvg-chno="143" tvg-id="IlBancodeiPugni.us@Italy",Il Banco dei Pugni
+#EXTINF:-1 tvg-chno="144" tvg-id="IlBancodeiPugni.us@Italy",Il Banco dei Pugni
 https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
 
-#EXTINF:-1 tvg-chno="144" tvg-id="",Il Sole24Ore TV (720p)
+#EXTINF:-1 tvg-chno="145" tvg-id="",Il Sole24Ore TV (720p)
 https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8
 
-#EXTINF:-1 tvg-chno="145" tvg-id="IlTestimone.de@IT",Il Testimone
+#EXTINF:-1 tvg-chno="146" tvg-id="IlTestimone.de@IT",Il Testimone
 https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
 
-#EXTINF:-1 tvg-chno="146" tvg-id="InazumaEleven.us@France",Inazuma Eleven
+#EXTINF:-1 tvg-chno="147" tvg-id="InazumaEleven.us@France",Inazuma Eleven
 https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
 
-#EXTINF:-1 tvg-chno="147" tvg-id="",Inter 24/7
+#EXTINF:-1 tvg-chno="148" tvg-id="",Inter 24/7
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-id="JustforLaughsGags.us@SD",Just for Laughs GAGS (720p)
+#EXTINF:-1 tvg-chno="149" tvg-id="JustforLaughsGags.us@SD",Just for Laughs GAGS (720p)
 https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
 
-#EXTINF:-1 tvg-chno="149" tvg-id="LesorelleMcLeod.us@Italy",Le sorelle McLeod
+#EXTINF:-1 tvg-chno="150" tvg-id="LesorelleMcLeod.us@Italy",Le sorelle McLeod
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
 
-#EXTINF:-1 tvg-chno="150" tvg-id="",LOL Just For Laughs (720p)
+#EXTINF:-1 tvg-chno="151" tvg-id="",LOL Just For Laughs (720p)
 https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
 
-#EXTINF:-1 tvg-chno="151" tvg-id="",Love Boat
+#EXTINF:-1 tvg-chno="152" tvg-id="",Love Boat
 https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
 
-#EXTINF:-1 tvg-chno="152" tvg-id="",Mai dire sì
+#EXTINF:-1 tvg-chno="153" tvg-id="",Mai dire sì
 https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8
 
-#EXTINF:-1 tvg-chno="153" tvg-id="",Mattel Junior
+#EXTINF:-1 tvg-chno="154" tvg-id="",Mattel Junior
 https://jmp2.uk/plu-686cfe983ffa5e0c91cdb5df.m3u8
 
-#EXTINF:-1 tvg-chno="154" tvg-id="",Mayday: Disastro Aereo (720p)
+#EXTINF:-1 tvg-chno="155" tvg-id="",Mayday: Disastro Aereo (720p)
 https://jmp2.uk/plu-690cb9140d121b44ad925ac9.m3u8
 
-#EXTINF:-1 tvg-chno="155" tvg-id="MissionImpossible.de@IT",Mission Impossible
+#EXTINF:-1 tvg-chno="156" tvg-id="MissionImpossible.de@IT",Mission Impossible
 https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
 
-#EXTINF:-1 tvg-chno="156" tvg-id="",MODUS Super Series Darts
+#EXTINF:-1 tvg-chno="157" tvg-id="",MODUS Super Series Darts
 https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-id="",Naturescape (720p)
+#EXTINF:-1 tvg-chno="158" tvg-id="",Naturescape (720p)
 https://jmp2.uk/plu-610a9ebe8c2ac2000734776e.m3u8
 
-#EXTINF:-1 tvg-chno="158" tvg-id="",New Tricks
+#EXTINF:-1 tvg-chno="159" tvg-id="",New Tricks
 https://jmp2.uk/plu-6500457d3efb510008315e59.m3u8
 
-#EXTINF:-1 tvg-chno="159" tvg-id="",Nina
+#EXTINF:-1 tvg-chno="160" tvg-id="",Nina
 https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
 
-#EXTINF:-1 tvg-chno="160" tvg-id="OnePiece.us@US",One Piece
+#EXTINF:-1 tvg-chno="161" tvg-id="OnePiece.us@US",One Piece
 https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-id="PlutoTVAlbertoSordi.de@IT",Pluto TV Alberto Sordi
+#EXTINF:-1 tvg-chno="162" tvg-id="PlutoTVAlbertoSordi.de@IT",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 
-#EXTINF:-1 tvg-chno="162" tvg-id="PlutoTVAnime.de@IT",Pluto TV Anime
+#EXTINF:-1 tvg-chno="163" tvg-id="PlutoTVAnime.de@IT",Pluto TV Anime
 https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 
-#EXTINF:-1 tvg-chno="163" tvg-id="PlutoTVChristmastuttolanno.de@IT",Pluto TV Christmas tutto l'anno
+#EXTINF:-1 tvg-chno="164" tvg-id="PlutoTVChristmastuttolanno.de@IT",Pluto TV Christmas tutto l'anno
 https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-id="PlutoTVCinemaOrientale.de@IT",Pluto TV Cinema Orientale
+#EXTINF:-1 tvg-chno="165" tvg-id="PlutoTVCinemaOrientale.de@IT",Pluto TV Cinema Orientale
 https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
 
-#EXTINF:-1 tvg-chno="165" tvg-id="PlutoTVCucina.de@IT",Pluto TV Cucina
+#EXTINF:-1 tvg-chno="166" tvg-id="PlutoTVCucina.de@IT",Pluto TV Cucina
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
 
-#EXTINF:-1 tvg-chno="166" tvg-id="PlutoTVDocumentari.de@IT",Pluto TV Documentari
+#EXTINF:-1 tvg-chno="167" tvg-id="PlutoTVDocumentari.de@IT",Pluto TV Documentari
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 
-#EXTINF:-1 tvg-chno="167" tvg-id="PlutoTVFilmAncoraPiuRomantici.de@IT",Pluto TV Film Ancora Più Romantici
+#EXTINF:-1 tvg-chno="168" tvg-id="PlutoTVFilmAncoraPiuRomantici.de@IT",Pluto TV Film Ancora Più Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 
-#EXTINF:-1 tvg-chno="168" tvg-id="PlutoTVFilmStorici.de@IT",Pluto TV Film Storici
+#EXTINF:-1 tvg-chno="169" tvg-id="PlutoTVFilmStorici.de@IT",Pluto TV Film Storici
 https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-id="PlutoTVHorror.de@IT",Pluto TV Horror
+#EXTINF:-1 tvg-chno="170" tvg-id="PlutoTVHorror.de@IT",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-id="PlutoTVLegamiLetali.de@IT",Pluto TV Legami Letali
+#EXTINF:-1 tvg-chno="171" tvg-id="PlutoTVLegamiLetali.de@IT",Pluto TV Legami Letali
 https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-id="PlutoTVNottidiPassione.de@IT",Pluto TV Notti di Passione
+#EXTINF:-1 tvg-chno="172" tvg-id="PlutoTVNottidiPassione.de@IT",Pluto TV Notti di Passione
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-id="PlutoTVNottidiSangue.de@IT",Pluto TV Notti di Sangue
+#EXTINF:-1 tvg-chno="173" tvg-id="PlutoTVNottidiSangue.de@IT",Pluto TV Notti di Sangue
 https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
 
-#EXTINF:-1 tvg-chno="173" tvg-id="PlutoTVNottidiTerrore.de@IT",Pluto TV Notti di Terrore
+#EXTINF:-1 tvg-chno="174" tvg-id="PlutoTVNottidiTerrore.de@IT",Pluto TV Notti di Terrore
 https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-id="PlutoTVRealLife.de@IT",Pluto TV Real Life
+#EXTINF:-1 tvg-chno="175" tvg-id="PlutoTVRealLife.de@IT",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="PlutoTVSciFi.de@IT",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-chno="176" tvg-id="PlutoTVSciFi.de@IT",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 
-#EXTINF:-1 tvg-chno="176" tvg-id="PlutoTVSerie.de@IT",Pluto TV Serie
+#EXTINF:-1 tvg-chno="177" tvg-id="PlutoTVSerie.de@IT",Pluto TV Serie
 https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 
-#EXTINF:-1 tvg-chno="177" tvg-id="PlutoTVSerieCrime.de@IT",Pluto TV Serie Crime
+#EXTINF:-1 tvg-chno="178" tvg-id="PlutoTVSerieCrime.de@IT",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 
-#EXTINF:-1 tvg-chno="178" tvg-id="PlutoTVSerieSciFi.de@IT",Pluto TV Serie Sci-Fi
+#EXTINF:-1 tvg-chno="179" tvg-id="PlutoTVSerieSciFi.de@IT",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 
-#EXTINF:-1 tvg-chno="179" tvg-id="PlutoTVShore.de@IT",Pluto TV Shore
+#EXTINF:-1 tvg-chno="180" tvg-id="PlutoTVShore.de@IT",Pluto TV Shore
 https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
 
-#EXTINF:-1 tvg-chno="180" tvg-id="PlutoTVSnooker900.de@IT",Pluto TV Snooker 900 (720p)
+#EXTINF:-1 tvg-chno="181" tvg-id="PlutoTVSnooker900.de@IT",Pluto TV Snooker 900 (720p)
 https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-id="PlutoTVSport.de@IT",Pluto TV Sport
+#EXTINF:-1 tvg-chno="182" tvg-id="PlutoTVSport.de@IT",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 
-#EXTINF:-1 tvg-chno="182" tvg-id="PlutoTVStoria.de@IT",Pluto TV Storia
+#EXTINF:-1 tvg-chno="183" tvg-id="PlutoTVStoria.de@IT",Pluto TV Storia
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 
-#EXTINF:-1 tvg-chno="183" tvg-id="PlutoTVTeen.de@IT",Pluto TV Teen (720p)
+#EXTINF:-1 tvg-chno="184" tvg-id="PlutoTVTeen.de@IT",Pluto TV Teen (720p)
 https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 
-#EXTINF:-1 tvg-chno="184" tvg-id="PlutoTVToto.de@IT",Pluto TV Totò
+#EXTINF:-1 tvg-chno="185" tvg-id="PlutoTVToto.de@IT",Pluto TV Totò
 https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-id="PlutoTVTrueCrime.de@IT",Pluto TV True Crime
+#EXTINF:-1 tvg-chno="186" tvg-id="PlutoTVTrueCrime.de@IT",Pluto TV True Crime
 https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 
-#EXTINF:-1 tvg-chno="186" tvg-id="PlutoTVViaggi.de@IT",Pluto TV Viaggi
+#EXTINF:-1 tvg-chno="187" tvg-id="PlutoTVViaggi.de@IT",Pluto TV Viaggi
 https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
-
-#EXTINF:-1 tvg-chno="187" tvg-id="PlutoTVWestern.de@IT",Pluto TV Western
-https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 
 #EXTINF:-1 tvg-chno="188" tvg-id="RallyTV.us@SD",Rally TV
 https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
